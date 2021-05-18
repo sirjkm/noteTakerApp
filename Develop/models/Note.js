@@ -21,4 +21,4 @@ Note.init(
     }
 );
 
-module.export = Note;
+module.exports = Note;
