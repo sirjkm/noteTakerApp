@@ -14,4 +14,8 @@ Note.init(
             type: DataTypes.STRING,
         },
     },
+    {
+        sequelize,
+        modelName: 'note'
+    }
 );
